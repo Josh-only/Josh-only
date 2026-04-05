@@ -1,67 +1,81 @@
-# 👋 Hello, I'm Toluani Oyebade  
-
-💻 **Full-Stack JavaScript Developer | Builder | Visionary**
-
----
-
-### 🧭 About Me  
-
-I’m a passionate and detail-oriented **web developer** with a growing legacy in tech.  
-My journey blends creativity with discipline — valuing traditional craftsmanship while embracing modern tools.  
-Currently, I’m developing projects across both **frontend and backend** using **JavaScript**, and I’m deeply conversant with **React** and **Angular** frameworks.  
-
-I believe technology should not just impress — it should **inspire**.  
-Each line of code I write is a step towards creating solutions that are intuitive, sustainable, and purpose-driven.  
-
----
-
-### 🧠 Tech Stack  
-
+cat > README.md << 'EOF'
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# Oyebade Toluwani
+
+**Full-Stack Developer · CS Undergraduate · Achievers University, Nigeria**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-toluwanioyebade.vercel.app-black?style=flat-square)](https://toluwanioyebade.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-toluwani--oyebade-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/toluwani-oyebade)
+[![Email](https://img.shields.io/badge/Email-toluwanioyebade@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:toluwanioyebade@gmail.com)
 
 </div>
 
 ---
 
-### 🚀 Current Focus  
+## About Me
 
-- Building dynamic, user-centred web applications  
-- Exploring deeper integrations with **ReactJS** and **Angular** ecosystems  
-- Strengthening my **backend** architecture skills using **Node.js**  
-- Preparing to launch **Notion Prime** — a project that embodies creativity, organisation, and innovation  
+I'm a 3rd year Computer Science undergraduate with hands-on experience building client-focused web applications. I've interned as a Front-End Engineer at **United Bank for Africa (UBA)**, where I worked on internal enterprise tools using Angular and TypeScript.
 
----
+Beyond academics and internships, I run **Edgestack** — a software solutions agency targeting small businesses — and I'm currently developing **Thrift**, an AI-powered digital Ajo (rotating savings) app built for Nigerian users.
 
-### 🌟 Guiding Philosophy  
-
-> “The best code doesn’t just function — it reflects the soul of the builder.”  
-
-I approach every project with humility, precision, and an eye for timeless design.  
-Technology changes; **craftsmanship endures**.
+I care about writing clean, purposeful code and building things that actually solve problems.
 
 ---
 
-### 📫 Let’s Connect  
+## Experience
 
-- 💼 [Portfolio Website](#) *(coming soon)*  
-- 🐦 [Twitter](#)  
-- 💬 [LinkedIn](#)  
-- 📧 **toluwanioyebade@gmail.com**
-
----
-
-### ⚡ Fun Fact  
-
-When I’m not writing code, I write **poetry** — because both poetry and programming share a rhythm, a logic, and a soul.
+**Front-End Engineer Intern** — United Bank for Africa (UBA) · *Jul – Oct 2025*
+- Built and maintained UI components for internal enterprise applications using Angular and TypeScript
+- Integrated RESTful APIs and collaborated with back-end teams to ship features end-to-end
+- Refactored legacy components to improve performance and usability
+- Participated in code reviews, debugging, and testing cycles
 
 ---
 
-⭐ **"Building legacy, one line of code at a time."**
+## Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [FinTrack](#) | Personal finance dashboard with live income/expense tracking and multi-chart data visualisation | React, Recharts, Vite |
+| [TaskFlow](#) | Five-column Kanban board with native HTML5 drag-and-drop | React, HTML5 API, Vite |
+| [WeatherSphere](#) | Real-time weather app with city search, 7-day forecasts, and hourly breakdowns | React, Open-Meteo API, Vite |
+| [Quiz App](https://github.com/Josh-only/Quiz-App) | Interactive JavaScript quiz app built to deepen DOM manipulation skills | HTML, CSS, Vanilla JS |
+
+---
+
+## Tech Stack
+
+**Languages**
+\`JavaScript (ES6+)\` \`TypeScript\` \`HTML5\` \`CSS3\` \`Java\` \`C#\`
+
+**Frameworks & Libraries**
+\`React.js\` \`Angular\` \`Node.js\` \`Express\` \`ASP.NET Core\` \`Blazor\`
+
+**Tools & Platforms**
+\`Git & GitHub\` \`MongoDB\` \`Postman\` \`Figma\` \`Vercel\` \`Netlify\` \`Render\`
+
+---
+
+## Currently
+
+- 🎓 Studying Computer Science at Achievers University (Class of 2027)
+- 🏗️ Building **Thrift** — an AI-powered digital savings app for Nigerian users
+- 📚 Deepening my JavaScript fundamentals and exploring backend systems with Java & Spring Boot
+- 🚀 Running **Edgestack**, a software agency for small businesses
+
+---
+
+## Education
+
+**B.Sc. Computer Science** — Achievers University, Owo · *Oct 2023 – May 2027*
+
+Relevant coursework: Data Structures, OOP (Java/C#), Artificial Intelligence, Cybersecurity & Strategy
+
+---
+
+<div align="center">
+
+*Open to collaborations, internships, and interesting problems worth solving.*
+
+</div>
