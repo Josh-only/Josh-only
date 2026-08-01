@@ -1,81 +1,350 @@
-cat > README.md << 'EOF'
 <div align="center">
 
-# Oyebade Toluwani
+<img src="./assets/profile.png" width="180" style="border-radius:50%;" />
 
-**Full-Stack Developer · CS Undergraduate · Achievers University, Nigeria**
+# 👋 Hi, I'm **Toluwani Oyebade**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-toluwanioyebade.vercel.app-black?style=flat-square)](https://toluwanioyebade.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-toluwani--oyebade-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/toluwani-oyebade)
-[![Email](https://img.shields.io/badge/Email-toluwanioyebade@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:toluwanioyebade@gmail.com)
+### Founder @ Edgestack • Software Engineer • AI Product Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Products;Founder+of+Edgestack;React+%7C+Next.js+%7C+TypeScript;Turning+Ideas+Into+Products;Computer+Science+Student" />
+
+Building software that solves **real-world problems** through thoughtful product design, modern engineering, and artificial intelligence.
+
+<p>
+
+<a href="https://toluwanioyebade.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/Josh-only">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/toluwani-oyebade">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:toluwanioyebade@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+![](https://komarev.com/ghpvc/?username=Josh-only&style=for-the-badge&color=blue)
 
 </div>
 
 ---
 
-## About Me
+# 🚀 About Me
 
-I'm a 3rd year Computer Science undergraduate with hands-on experience building client-focused web applications. I've interned as a Front-End Engineer at **United Bank for Africa (UBA)**, where I worked on internal enterprise tools using Angular and TypeScript.
+```diff
++ Founder & Lead Developer @ Edgestack
 
-Beyond academics and internships, I run **Edgestack** — a software solutions agency targeting small businesses — and I'm currently developing **Thrift**, an AI-powered digital Ajo (rotating savings) app built for Nigerian users.
++ Third-Year Computer Science Student
 
-I care about writing clean, purposeful code and building things that actually solve problems.
++ Passionate about AI, Product Strategy and Startups
 
----
++ Building products that solve real problems
 
-## Experience
-
-**Front-End Engineer Intern** — United Bank for Africa (UBA) · *Jul – Oct 2025*
-- Built and maintained UI components for internal enterprise applications using Angular and TypeScript
-- Integrated RESTful APIs and collaborated with back-end teams to ship features end-to-end
-- Refactored legacy components to improve performance and usability
-- Participated in code reviews, debugging, and testing cycles
++ Always learning. Always shipping.
+```
 
 ---
 
-## Projects
+# 💼 Experience
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [FinTrack](#) | Personal finance dashboard with live income/expense tracking and multi-chart data visualisation | React, Recharts, Vite |
-| [TaskFlow](#) | Five-column Kanban board with native HTML5 drag-and-drop | React, HTML5 API, Vite |
-| [WeatherSphere](#) | Real-time weather app with city search, 7-day forecasts, and hourly breakdowns | React, Open-Meteo API, Vite |
-| [Quiz App](https://github.com/Josh-only/Quiz-App) | Interactive JavaScript quiz app built to deepen DOM manipulation skills | HTML, CSS, Vanilla JS |
+## Founder & Lead Developer
 
----
+### Edgestack
 
-## Tech Stack
-
-**Languages**
-\`JavaScript (ES6+)\` \`TypeScript\` \`HTML5\` \`CSS3\` \`Java\` \`C#\`
-
-**Frameworks & Libraries**
-\`React.js\` \`Angular\` \`Node.js\` \`Express\` \`ASP.NET Core\` \`Blazor\`
-
-**Tools & Platforms**
-\`Git & GitHub\` \`MongoDB\` \`Postman\` \`Figma\` \`Vercel\` \`Netlify\` \`Render\`
+Building AI-integrated software and modern web experiences for startups and businesses.
 
 ---
 
-## Currently
+## Front-End Engineer Intern
 
-- 🎓 Studying Computer Science at Achievers University (Class of 2027)
-- 🏗️ Building **Thrift** — an AI-powered digital savings app for Nigerian users
-- 📚 Deepening my JavaScript fundamentals and exploring backend systems with Java & Spring Boot
-- 🚀 Running **Edgestack**, a software agency for small businesses
+### United Bank for Africa (UBA)
+
+- Angular
+- TypeScript
+- REST APIs
+- Enterprise Applications
+- Performance Optimization
 
 ---
 
-## Education
+# 🌟 Featured Products
 
-**B.Sc. Computer Science** — Achievers University, Owo · *Oct 2023 – May 2027*
+<table>
 
-Relevant coursework: Data Structures, OOP (Java/C#), Artificial Intelligence, Cybersecurity & Strategy
+<tr>
+
+<td width="50%">
+
+## 💻 Lapshare
+
+Campus Laptop Marketplace
+
+React
+
+TypeScript
+
+Supabase
+
+Paystack
+
+AI Trust Engine
+
+**Connecting students who own laptops with students who need them.**
+
+</td>
+
+<td>
+
+<img src="./assets/lapshare.png"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<img src="./assets/mindshelf.png"/>
+
+</td>
+
+<td>
+
+## 📚 MindShelf
+
+AI Reading Library
+
+Next.js
+
+Anthropic API
+
+Knowledge Graph
+
+Flashcards
+
+Reading Coach
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 💰 FinTrack
+
+Modern Finance Dashboard
+
+Budgeting
+
+Analytics
+
+Charts
+
+Income Tracking
+
+Expense Tracking
+
+</td>
+
+<td>
+
+<img src="./assets/fintrack.png"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<img src="./assets/taskflow.png"/>
+
+</td>
+
+<td>
+
+## 📋 TaskFlow
+
+Kanban Board
+
+Native Drag & Drop
+
+Five-column Workflow
+
+Task Management
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,cs,html,css"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vite,tailwind"/>
+
+</p>
+
+---
+
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,dotnet"/>
+
+</p>
+
+---
+
+## AI
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+</p>
+
+Anthropic API • Google AI Studio
+
+---
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,bash,vercel,netlify"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Josh-only&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Josh-only&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh-only&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Josh-only&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Josh-only&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Josh-only/Josh-only/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🚀 Currently Building
+
+- 💻 Lapshare
+- 📚 MindShelf
+- 🤖 AI Sales Platform
+- 🌍 AI-Integrated Web Products
+
+---
+
+# 💡 Philosophy
+
+> **"Great software isn't just written. It's designed around real human problems."**
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://toluwanioyebade.vercel.app">
+
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+<a href="mailto:toluwanioyebade@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+<a href="https://linkedin.com/in/toluwani-oyebade">
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://github.com/Josh-only">
+
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-*Open to collaborations, internships, and interesting problems worth solving.*
+### ⭐ Thanks for stopping by!
+
+**Building products that create opportunity through technology.**
 
 </div>
